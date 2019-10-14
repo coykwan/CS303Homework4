@@ -1,5 +1,5 @@
 #Question number 5
-
+import random 
 array1 = [random.randint(1,10) for _ in range(10000)]
 
 array2 = (range(1,10000))
